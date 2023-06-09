@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    utkarshanand221:
+      email: jsmith@gmail.com
+      name: Utkarsh Anand
+      password: '$2b$12$EQsq.Nn3Sj825HCZjkNoTurY5hJcZem70GVzIvwVyMNdM7Nq6Qhw.' # To be replaced with hashed password
+    ayush221:
+      email: rbriggs@gmail.com
+      name: Ayush Badaya
+      password: '$2b$12$s.gACvHt0XBIkPq3TnA2weINZfbhHJMCDJk7PWFzFi96tfRFP3TaC' # To be replaced with hashed password
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+preauthorized:
+  emails:
+  - melsby@gmail.com
